@@ -1,6 +1,6 @@
 import React from 'react';
 import { Code } from 'lucide-react';
-import { config, functions } from '../../data';
+import { config, apiFunctions as functions } from '../../data';
 
 const ApiSection = () => {
   return (
