@@ -96,11 +96,11 @@ export const loveLetterMessage = {
   title: "A Message from My Heart",
   message: `My Baby Girl ❤️
 
-        HAPPY 19th BIRTHDAYYYYY 🎉🎂👑
+        HAPPY BIRTHDAYYYYY 🎉🎂👑
 
         Babes, can you believe its already our second birthday of you together?? Like damn, my baby's all grown up 🥹. Feels like just yesterday we were goofy little kids falling for each other, and now look at us , still goofy but so much more in love. I swear every day with you just makes me more and more obsessed with you. Idk what you did to me but I'm fully under your spell now 😡✨.
 
-You're literally everything I ever wanted and more. Your laugh, your tantrums, your happy squeals, even your random whining and oink oink 🤭 all of it has become part of my life. I can't imagine a single day without hearing your voice before bed, after waking up.I NEED it like oxygen. And ngl, I be showing you off everywhere in college like "yeah that's MY girl" 🫡.
+You're literally everything I ever wanted and more. Your laugh, your tantrums, your happy squeals, even your random whining and oink oink 🤭 all of it has become part of my life. I can't imagine a single day without hearing your voice before bed, after waking up, i need it all the timee.I NEED it like oxygen. And I be showing you off everywhere in college like "yeah that's MY girl" 🫡.
 
 I'm so, so proud of you baby. You're only 19 and already so strong, so kind, so gorgeous, and so inspiring. You make me wanna be a better person just by being you 🥺. I can't wait to see everything you'll achieve, and I'll be right here hyping you up forever.
 
@@ -108,7 +108,7 @@ Also, let's be real… you turn me on like no one else 🙈🔥. Birthday sex is
 
 Baby, life is gonna throw us ups and downs, but we're fighters. And no matter what, we got each other's backs. We'll laugh, cry, scream, cuddle, fight, and still end up stronger than ever. That's what I love about us.
 
-So today, forget the stress, forget the world just know that you're my everything. I love you endlessly, and I'll spend every birthday, every year, every moment making sure you feel it. Happy 19th, my love. Buckle up cause we got so many adventures waiting for us 💫.
+So today, forget the stress, forget the world just know that you're my everything. I love you endlessly, and I'll spend every birthday, every year, every moment making sure you feel it. Happy birthday, my love. Buckle up cause we got so many adventures waiting for us 💫.
 
 Muahhhhhh 😘💋 love you forever,
 Your obsessed idiot 🥰❤️`

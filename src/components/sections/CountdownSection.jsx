@@ -32,7 +32,7 @@ const CountdownSection = ({ config, currentTime }) => {
             <div className="text-5xl font-bold gradient-text mb-2">
               {daysUntil(config.dates.herBirthday)}
             </div>
-            <p className="text-rose-500">days to celebrate you</p>
+            <p className="text-rose-500">day left to celebrate you</p>
             <div className="mt-4 flex justify-center gap-1">
               {[...Array(5)].map((_, i) => (
                 <Star
