@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import PhotoWithFallback from '../PhotoWithFallback';
+import { photoGallery } from '../../data';
 
-const GallerySection = ({ photos }) => {
+const GallerySection = () => {
   const [selectedPhoto, setSelectedPhoto] = useState(null);
 
   return (
@@ -16,7 +17,7 @@ const GallerySection = ({ photos }) => {
       <div className="max-w-6xl mx-auto">
         {/* Masonry Grid */}
         <div className="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6">
-          {photos.map((item, i) => (
+          {photoGallery.map((item, i) => (
             <div
               key={i}
               className="break-inside-avoid group relative glass-card rounded-2xl overflow-hidden cursor-pointer transform hover:scale-[1.02] transition-all"

@@ -1,7 +1,8 @@
 import React from 'react';
 import { Code } from 'lucide-react';
+import { config, functions } from '../../data';
 
-const ApiSection = ({ config, functions }) => {
+const ApiSection = () => {
   return (
     <section className="py-20 px-6">
       <div className="max-w-4xl mx-auto">
