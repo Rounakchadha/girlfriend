@@ -70,7 +70,6 @@ export const loveReasons = [
   "How you dance when you think no one is watching",
   "Your sleepy voice in the morning",
   "The way you scrunch your nose when you're concentrating",
-  "How passionate you get about hindu mythology",
   "Your random 2am thoughts that make perfect sense",
   "The way you care for everyone around you",
   "How you make ordinary moments feel special",
