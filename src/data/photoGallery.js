@@ -23,7 +23,7 @@ export const photoGallery = [
   {
     aspectRatio: "4/3", // Standard
     label: "sexiest wife",
-    photo: "/photos/gallery-1.jpg",
+    photo: "/photos/gallery-4.jpg",
     icon: "☕",
     objectPosition: "center 20%",
   },
@@ -44,7 +44,7 @@ export const photoGallery = [
   {
     aspectRatio: "3/4", // Portrait
     label: "the most Stunning",
-    photo: "/photos/gallery-1.jpg",
+    photo: "/photos/gallery-7.jpg",
     icon: "😂",
     objectPosition: "center 20%",
   },
