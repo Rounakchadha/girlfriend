@@ -207,21 +207,10 @@ export const globalStyles = `
   
   /* Text Effects */
   .gradient-text {
-    background: linear-gradient(135deg, #ff69b4, #ff8fa3, #ff1493);
+    background: linear-gradient(135deg, #ff69b4, #ff1493);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    background-size: 200% 200%;
-    animation: gradientShift 3s ease infinite;
-  }
-  
-  @keyframes gradientShift {
-    0%, 100% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
   }
   
   /* Glass Morphism */
